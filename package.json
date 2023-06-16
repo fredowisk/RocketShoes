@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/react-hooks": "^5.1.0",
     "@types/react-icons": "^3.0.0",
     "@types/react-router-dom": "^5.1.7",
